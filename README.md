@@ -1,5 +1,4 @@
 # vpn-config-
-# vpn-config
 <h1>Analyzing the Impact of a VPN on IP Address Behavior</h1>
 
 ![Screen Shot 2023-10-26 at 10 25 58 AM](https://github.com/Courela23/vpn-config/assets/136120929/92abb410-7d7b-4c51-b7a7-ee531e5e9d33)
